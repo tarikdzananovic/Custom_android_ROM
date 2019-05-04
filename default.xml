@@ -297,7 +297,7 @@
   <project path="system/qcom" name="LineageOS/android_system_qcom" groups="qcom" />
   <project path="system/security" name="LineageOS/android_system_security" groups="pdk" />
   <project path="system/vold" name="LineageOS/android_system_vold" groups="pdk" />
-  <project path="vendor/cm" name="LineageOS/android_vendor_cm" />
+  <project path="vendor/custom_rom" name="tarikdzananovic/android_vendor_custom_rom" />
   <project path="vendor/cmsdk" name="LineageOS/cm_platform_sdk" />
 
 <!-- CMSDK SAMPLES -->
